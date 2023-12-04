@@ -1,6 +1,6 @@
-const fs = require('fs')
 const path = require('path')
 const getNumbersFromLine = require('./get-numbers-from-line');
+const getFileLines = require('../utils/get-file-lines')
 
 /**
  * Reads file and parses every line to get the numbers and returns the sum of all numbers.
@@ -9,8 +9,7 @@ const getNumbersFromLine = require('./get-numbers-from-line');
  * @returns {number}
  */
 function getNumbersFromFile(filePath, withWrittenNumbers = false) {
-  const file = fs.readFileSync(path.join(__dirname, filePath), 'utf8');
-  const lines = file.split('\n').filter(Boolean);
+  const lines = getFileLines(path.join(__dirname, filePath));
   const numbers = lines.map((line) => getNumbersFromLine(line, withWrittenNumbers));
   return numbers.reduce((acc, number) => acc + number, 0);
 }

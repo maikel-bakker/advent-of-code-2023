@@ -1,0 +1,90 @@
+[
+  {
+    "gameNumber": 1,
+    "gameSets": [
+      {
+        "blue": 3,
+        "red": 4
+      },
+      {
+        "red": 1,
+        "green": 2,
+        "blue": 6
+      },
+      {
+        "green": 2
+      }
+    ]
+  },
+  {
+    "gameNumber": 2,
+    "gameSets": [
+      {
+        "blue": 1,
+        "green": 2
+      },
+      {
+        "green": 3,
+        "blue": 4,
+        "red": 1
+      },
+      {
+        "green": 1,
+        "blue": 1
+      }
+    ]
+  },
+  {
+    "gameNumber": 3,
+    "gameSets": [
+      {
+        "green": 8,
+        "blue": 6,
+        "red": 20
+      },
+      {
+        "blue": 5,
+        "red": 4,
+        "green": 13
+      },
+      {
+        "green": 5,
+        "red": 1
+      }
+    ]
+  },
+  {
+    "gameNumber": 4,
+    "gameSets": [
+      {
+        "green": 1,
+        "red": 3,
+        "blue": 6
+      },
+      {
+        "green": 3,
+        "red": 6
+      },
+      {
+        "green": 3,
+        "blue": 15,
+        "red": 14
+      }
+    ]
+  },
+  {
+    "gameNumber": 5,
+    "gameSets": [
+      {
+        "red": 6,
+        "blue": 1,
+        "green": 3
+      },
+      {
+        "blue": 2,
+        "red": 1,
+        "green": 2
+      }
+    ]
+  }
+]
