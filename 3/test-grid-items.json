@@ -1,0 +1,740 @@
+[
+  {
+    "startX": 0,
+    "endX": 2,
+    "startY": 0,
+    "endY": 0,
+    "value": "467",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 0,
+    "endY": 0,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 0,
+    "endY": 0,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 7,
+    "startY": 0,
+    "endY": 0,
+    "value": "114",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 0,
+    "endY": 0,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 0,
+    "endY": 0,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 2,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 1,
+    "endY": 1,
+    "value": "*",
+    "isNumber": false,
+    "isSymbol": true
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 6,
+    "endX": 6,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 7,
+    "endX": 7,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 1,
+    "endY": 1,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 2,
+    "endY": 2,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 2,
+    "endY": 2,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 3,
+    "startY": 2,
+    "endY": 2,
+    "value": "35",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 2,
+    "endY": 2,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 2,
+    "endY": 2,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 6,
+    "endX": 8,
+    "startY": 2,
+    "endY": 2,
+    "value": "633",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 2,
+    "endY": 2,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 2,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 6,
+    "endX": 6,
+    "startY": 3,
+    "endY": 3,
+    "value": "#",
+    "isNumber": false,
+    "isSymbol": true
+  },
+  {
+    "startX": 7,
+    "endX": 7,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 3,
+    "endY": 3,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 2,
+    "startY": 4,
+    "endY": 4,
+    "value": "617",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 4,
+    "endY": 4,
+    "value": "*",
+    "isNumber": false,
+    "isSymbol": true
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 4,
+    "endY": 4,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 4,
+    "endY": 4,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 6,
+    "endX": 6,
+    "startY": 4,
+    "endY": 4,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 7,
+    "endX": 7,
+    "startY": 4,
+    "endY": 4,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 4,
+    "endY": 4,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 4,
+    "endY": 4,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 2,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 5,
+    "endY": 5,
+    "value": "+",
+    "isNumber": false,
+    "isSymbol": true
+  },
+  {
+    "startX": 6,
+    "endX": 6,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 7,
+    "endX": 8,
+    "startY": 5,
+    "endY": 5,
+    "value": "58",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 5,
+    "endY": 5,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 4,
+    "startY": 6,
+    "endY": 6,
+    "value": "592",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 6,
+    "endX": 6,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 7,
+    "endX": 7,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 6,
+    "endY": 6,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 2,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 6,
+    "endX": 8,
+    "startY": 7,
+    "endY": 7,
+    "value": "755",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 7,
+    "endY": 7,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 1,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 2,
+    "endX": 2,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 3,
+    "endX": 3,
+    "startY": 8,
+    "endY": 8,
+    "value": "$",
+    "isNumber": false,
+    "isSymbol": true
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 5,
+    "startY": 8,
+    "endY": 8,
+    "value": "*",
+    "isNumber": false,
+    "isSymbol": true
+  },
+  {
+    "startX": 6,
+    "endX": 6,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 7,
+    "endX": 7,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 8,
+    "endY": 8,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 0,
+    "endX": 0,
+    "startY": 9,
+    "endY": 9,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 1,
+    "endX": 3,
+    "startY": 9,
+    "endY": 9,
+    "value": "664",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 4,
+    "endX": 4,
+    "startY": 9,
+    "endY": 9,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 5,
+    "endX": 7,
+    "startY": 9,
+    "endY": 9,
+    "value": "598",
+    "isNumber": true,
+    "isSymbol": false
+  },
+  {
+    "startX": 8,
+    "endX": 8,
+    "startY": 9,
+    "endY": 9,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  },
+  {
+    "startX": 9,
+    "endX": 9,
+    "startY": 9,
+    "endY": 9,
+    "value": ".",
+    "isNumber": false,
+    "isSymbol": false
+  }
+]
